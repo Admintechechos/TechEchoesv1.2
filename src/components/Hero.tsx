@@ -22,10 +22,10 @@ const Hero = () => {
                     {/* Removed the logo (motion.img) */}
 
                     <h1 className="text-4xl sm:text-6xl font-bold mb-6 text-white">
-                        Welcome to Techechos innovation
+                        Welcome to Techechos Innovation
                     </h1>
                     <p className="text-xl sm:text-2xl mb-8 text-white/90 font-light">
-                        INNOVATE • COLLABORATE • ELEVATE
+                        Innovate • Collaborate • Elevate
                     </p>
 
                     {/* Featured Project Images */}
