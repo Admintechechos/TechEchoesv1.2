@@ -14,7 +14,7 @@ const Navbar = () => {
           <div className="flex-shrink-0 flex items-center">
             <img src="/logo.svg" alt="Logo" className="h-10 w-10" />
             <span className="ml-2 text-2xl font-bold bg-gradient-to-r from-purple-600 to-orange-500 text-transparent bg-clip-text">
-              Techechos innovation
+              Techechos Innovation
             </span>
           </div>
           
