@@ -14,7 +14,7 @@ function App() {
       <Careers />
           <Contact />
           <footer className="bg-gray-900 text-white py-6 text-center">
-              <p> &#169; 2024 TechEchoes Innovation. All rights reserved.</p>
+              <p> &#169; 2024 Techechoes Innovation. All rights reserved.</p>
           </footer>
     </div>
   );
