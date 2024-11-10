@@ -5,7 +5,10 @@ import Stats from './Stats';
 
 const Hero = () => {
     return (
-        <section id="home" className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-600 via-orange-400 to-purple-600 relative overflow-hidden">
+        <section
+            id="home"
+            className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-600 via-orange-400 to-purple-600 relative overflow-hidden pt-20 md:pt-32"
+        >
             {/* Background decorative elements */}
             <div className="absolute inset-0 overflow-hidden">
                 <div className="absolute w-96 h-96 bg-purple-500/20 rounded-full -top-20 -left-20 blur-3xl"></div>
