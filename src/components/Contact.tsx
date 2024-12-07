@@ -52,7 +52,7 @@ const Contact = () => {
               </div>
               <div className="flex items-center space-x-4">
                 <MapPin className="w-6 h-6 text-purple-600" />
-                              <span className="text-gray-600">5-470, Innovation Street,Warangal, Telangana, 506002</span>
+                              <span className="text-gray-600">4-4-95,Naim Nagar,Hanamkonda,Warangal,506001</span>
               </div>
             </div>
           </motion.div>
